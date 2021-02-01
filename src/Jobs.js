@@ -14,32 +14,32 @@ const Jobs = () => {
             ></Job>
             <Job
                 title="Responsable d'Atelier (H/F)"
-                h3="CDI - France - Pantin"
+                h3="CDD - France - Paris"
                 color="job-yellow"
             ></Job>
             <Job
                 title="Chef de Projets"
-                h3="CDI - France - Pantin"
+                h3="CDD - France - Paris"
                 color="job-blue"
             ></Job>
             <Job
                 title="Développeur React.js"
-                h3="CDI - France - Pantin"
+                h3="CDI - France - Paris"
                 color="job-orange"
             ></Job>
             <Job
                 title="Sales Associate Stockholm"
-                h3="CDI - France - Pantin"
+                h3="CDI - Suède - Stockholm"
                 color="job-red"
             ></Job>
             <Job
                 title="Vendeur/se - Crans Montana"
-                h3="CDI - France - Pantin"
+                h3="CDI - Suisse - Crans-Montana"
                 color="job-green"
             ></Job>
             <Job
                 title="CRM & Data Quality Analyst"
-                h3="CDI - France - Pantin"
+                h3="CDI - USA - New York"
                 color="job-yellow"
             ></Job>
             <Job
